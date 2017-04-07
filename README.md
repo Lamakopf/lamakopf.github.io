@@ -1,2 +1,0 @@
-# lamakopf.github.io
-Lamakopf
