@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'leaguespartan bold';
+	src: url('leaguespartan-bold.eot');
+	src: url('leaguespartan-bold.eot?#iefix') format('embedded-opentype'),
+		url('leaguespartan-bold.woff') format('woff'),
+		url('leaguespartan-bold.ttf') format('truetype'),
+		url('leaguespartan-bold.svg') format('svg');
+}
